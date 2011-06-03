@@ -1,0 +1,11 @@
+C:\Users\ronald\Desktop\Web\Web.Specs\bin\Release\RV.Web.Specs.dll
+C:\Users\ronald\Desktop\Web\Web.Specs\bin\Release\RV.Web.Specs.pdb
+C:\Users\ronald\Desktop\Web\Web.Specs\bin\Release\RV.Web.dll
+C:\Users\ronald\Desktop\Web\Web.Specs\bin\Release\RV.Web.pdb
+C:\Users\ronald\Desktop\Web\Web.Specs\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ronald\Desktop\Web\Web.Specs\obj\Release\RV.Web.Specs.dll
+C:\Users\ronald\Desktop\Web\Web.Specs\obj\Release\RV.Web.Specs.pdb
+C:\Users\ronald\Desktop\Web\Web.Specs\bin\Release\xunit.dll
+C:\Users\ronald\Desktop\Web\Web.Specs\bin\Release\xunit.extensions.dll
+C:\Users\ronald\Desktop\Web\Web.Specs\bin\Release\xunit.xml
+C:\Users\ronald\Desktop\Web\Web.Specs\bin\Release\xunit.extensions.xml
